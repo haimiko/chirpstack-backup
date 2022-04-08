@@ -8,6 +8,7 @@
 cd $HOMEDIR
 
 . ./CONFIG
+./getApps.sh
 OUTFILE=$HOMEDIR/backup.out.`date +%d%b%y`
 
 ### get the list of applications
