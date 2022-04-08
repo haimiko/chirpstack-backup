@@ -1,0 +1,2 @@
+##AppName,timeout_in_sec,email1;email2;emailx
+#TESTAPP,86400,haimiko@email.com

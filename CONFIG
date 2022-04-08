@@ -1,0 +1,10 @@
+HOMEDIR=/data
+## chripstack API
+URL=https://Chirpstack/api
+##API_TOKEN
+KEY="CHIRPSTACK_API_TOCKEN"
+##
+MQTTBROKER=MQTTBROKER
+MQTTPORT=1883
+##Limit number of devices per pull
+LIMIT=5000
